@@ -1,4 +1,4 @@
-# Portfolio Filter Gallery
+# How To Create a Portfolio Filter Gallery
 
 ## YouTube : [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
