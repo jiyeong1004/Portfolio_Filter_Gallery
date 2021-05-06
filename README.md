@@ -6,6 +6,10 @@
 
 <a href="https://www.youtube.com/watch?v=ZjrqnxDEkzA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
+* HTML
+* CSS
+* jQuery
+
 ### < image source >
 
 image source : https://unsplash.com/s/photos/product
